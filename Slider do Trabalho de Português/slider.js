@@ -127,7 +127,7 @@ function slide4() {
 
     const sinedoqueTitle = createTitle('Definição de Sinédoque'),
         sinedoqueDesc = createTxt(
-            'Associação entre dois termos que são tão próximos que um acaba sugerindo o outro, como a utilização do autor no lugar da sua obra, efeito pela causa, parte pelo todo, marca pelo produto, etc...',
+            'Sinédoque consiste em uma figura de linguagem que é conhecida principalmente por fazer a substituição de um termo por outro, o que acarreta uma diminuição ou ampliação do sentido desse termo utilizado.<br>Essa redução ou ampliação ocorre devido à relação que o termo substituído e o termo substituto estabelecem.',
             {top: '35%', left: '50%', transform: 'translate(-50%, -50%)', width: '80vw'}
         );
 
